@@ -1,0 +1,8 @@
+Food delivery startup average margins: 10-15%.
+SaaS startup gross margins: 70-80%.
+Retail margins: 20-40%.
+Logistics margins: 8-12%.
+
+Typical MVP development cost: ₹15,00,000 - ₹40,00,000.
+Startup marketing costs: 10-20% of budget.
+Tech infrastructure costs scale with users.
